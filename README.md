@@ -1,4 +1,4 @@
-## Hola, Soy Bzushi9 y en esta cuenta de gihhub estare enviando juegos de android 
+## Hola, Soy Bzushi9 y en esta cuenta de github estare enviando juegos de android 
 
 <!--
 **Bzushi9/bzushi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
