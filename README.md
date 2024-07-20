@@ -1,4 +1,4 @@
-## Hola, Este es un port de android de "Friday night funkin" y su actualizacion de la weekend 1 y las dificultades Erect y Night
+## Hola, Este es un port de android de "Friday night funkin" y su actualizacion de la weekend 1 y las dificultades Erect y Night y ¡Optimizado!
 
 <!--
 **Bzushi9/bzushi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
